@@ -1,0 +1,6 @@
+{
+  "name": "Kids English Master - Bolalar Uchun Ingliz Tili",
+  "description": "7-10 yoshli bolalar uchun interaktiv ingliz tili: Alifbo, 1-100 sonlar, transport, ranglar va qushlar ovozli talaffuz bilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
